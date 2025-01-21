@@ -2,7 +2,7 @@
 
 ## Descripción
 
-**SystemDiag25** es una herramienta de diagnóstico de sistemas creada para ofrecer una visión profunda y detallada de los componentes del hardware y el estado general de tu equipo. Este script permite a los usuarios analizar el rendimiento y la salud de su sistema operativo y sus componentes clave como CPU, RAM, disco duro, GPU y más.
+**SystemDiag** es una herramienta de diagnóstico de sistemas creada para ofrecer una visión profunda y detallada de los componentes del hardware y el estado general de tu equipo. Este script permite a los usuarios analizar el rendimiento y la salud de su sistema operativo y sus componentes clave como CPU, RAM, disco duro, GPU y más.
 
 Diseñado para usuarios que desean realizar diagnósticos rápidos y eficientes sin la necesidad de herramientas complejas, **SystemDiag** es una solución de fácil acceso para realizar un seguimiento del rendimiento de tu PC y detectar posibles fallos antes de que se conviertan en problemas graves.
 
