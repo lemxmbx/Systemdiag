@@ -1,4 +1,4 @@
-# SystemDiag25
+# Systemdiag.py
 
 ## Descripción
 
