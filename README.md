@@ -15,6 +15,6 @@ Diseñado para usuarios que desean realizar diagnósticos rápidos y eficientes 
 
 Este proyecto está bajo la Licencia Pública General GNU v3.0.
 
-## Arte ASCII
+
 
 
