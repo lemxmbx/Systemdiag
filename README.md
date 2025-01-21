@@ -9,10 +9,8 @@
         |___/                                             |___/ 
 """
 
-
-¡Claro! Aquí tienes la versión más compacta y lista para copiar de una vez:
-
 SystemDiag
+----------
 SystemDiag es una herramienta de diagnóstico de sistemas diseñada para proporcionar una visión completa y detallada sobre el rendimiento y estado de tu equipo. Desarrollado por David Álvarez de Greenlabs, este script permite a los usuarios analizar componentes clave como CPU, RAM, disco duro, GPU, y mucho más.
 
 🚀 Características
